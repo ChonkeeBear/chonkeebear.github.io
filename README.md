@@ -1,2 +1,2 @@
-# chonkeebear.github.io
-[https:](https://www.twitch.tv/chonkeebear)
+# ChonkeeBear
+[Twitch.Tv](https://www.twitch.tv/chonkeebear)
