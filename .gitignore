@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/tonimoko.github.io/FileContentIndex
+/.vs/tonimoko.github.io/v17
+/.vs/slnx.sqlite
+/.vs/slnx.sqlite-journal
+/.vs/tonimoko.github.io/config
